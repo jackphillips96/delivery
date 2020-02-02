@@ -1,4 +1,4 @@
-# Continuous delivery of Flask Application on GCP
+# Continuous delivery of Flask Application on GCP Project
 This is a project for my Cloud Computing course
 
 -Created a Google App Engine using the GCP Cloud Shell envirnment
